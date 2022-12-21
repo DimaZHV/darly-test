@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/darly-test/static/css/main.6068a009.css",
+    "main.js": "/darly-test/static/js/main.36b43d56.js",
+    "static/js/787.a1991338.chunk.js": "/darly-test/static/js/787.a1991338.chunk.js",
+    "index.html": "/darly-test/index.html",
+    "main.6068a009.css.map": "/darly-test/static/css/main.6068a009.css.map",
+    "main.36b43d56.js.map": "/darly-test/static/js/main.36b43d56.js.map",
+    "787.a1991338.chunk.js.map": "/darly-test/static/js/787.a1991338.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6068a009.css",
+    "static/js/main.36b43d56.js"
+  ]
+}
